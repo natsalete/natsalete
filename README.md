@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Natalia Salete 👋
 
+Apaixonada por tecnologia e conhecimento!
+
 ![natsalete GitHub stats](https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,6 +17,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonada por tecnologia e conhecimento!
+
 
 
