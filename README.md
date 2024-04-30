@@ -6,7 +6,7 @@ Apaixonada por tecnologia e conhecimento!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact" />
 </a>
 
 ## Tecnologias que amo e estou aprendendo:
