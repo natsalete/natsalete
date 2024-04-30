@@ -9,6 +9,12 @@ Apaixonada por tecnologia e conhecimento!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
 </a>
 
+<br /> <br />
+
+</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natsalete&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+</div>
 
 ## Principais repositórios:
 
