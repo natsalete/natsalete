@@ -6,7 +6,17 @@ Apaixonada por tecnologia e conhecimento!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
+</a>
+
+
+## Principais repositórios:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&show_owner=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=SmartBox-Projeto-html-css&show_owner=true&theme=radical" />
 </a>
 
 ## Tecnologias que amo e estou aprendendo:
