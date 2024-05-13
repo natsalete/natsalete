@@ -1,33 +1,28 @@
 # Olá! Eu sou a Natalia Salete 👋
 
-## Apaixonada por tecnologia e conhecimento!
+### Apaixonada por tecnologia e conhecimento!
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<a href="https://github.com/natsalete/github-readme-stats">
+<div  align="center">
+  <a href="https://github.com/natsalete/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/natsalte/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
 </a>
 
-<br /> <br />
+</div>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<hr>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natsalete&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 </div>
 
 <hr>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <p align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
@@ -38,19 +33,24 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
 ## Principais repositórios:
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&show_owner=true&theme=radical" />
 </a>
-<a align="center" href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=SmartBox-Projeto-html-css&show_owner=true&theme=radical" />
 </a>
+</div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## Tecnologias que amo e estou aprendendo:
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" align="center"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
