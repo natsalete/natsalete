@@ -1,27 +1,50 @@
-### Olá! Eu sou a Natalia Salete 👋
+# Olá! Eu sou a Natalia Salete 👋
 
-Apaixonada por tecnologia e conhecimento!
+## Apaixonada por tecnologia e conhecimento!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<a href="https://github.com/natsalete/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/natsalte/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
 </a>
 
 <br /> <br />
 
-</div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natsalete&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 </div>
 
+<hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
 ## Principais repositórios:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a align="center" href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=SmartBox-Projeto-html-css&show_owner=true&theme=radical" />
 </a>
 
