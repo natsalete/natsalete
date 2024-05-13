@@ -3,20 +3,22 @@
 ### Apaixonada por tecnologia e conhecimento!
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
 <div  align="center">
   <a href="https://github.com/natsalete/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/natsalte/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
-</a>
-
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/natsalte/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
+  </a>
 </div>
 
+<br>
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=natsalete&style=flat-square&color=22CCB2">
 <hr>
+<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natsalete&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
