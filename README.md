@@ -18,6 +18,11 @@
 <br>
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=natsalete&style=flat-square&color=22CCB2">
 <hr>
+<div align="center">
+  <a href="http://s01.flagcounter.com/more/pai"><img src="https://s01.flagcounter.com/count2/pai/bg_CD94FF/txt_363754/border_8135CC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  <hr>
+</div>
+
 <br>
 
 <div align="center">
@@ -47,7 +52,7 @@
 </div>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/natsalete/readme/master/assets/lines/colored.png">
 </h3>
 
 ## Tecnologias que amo e estou aprendendo:
@@ -64,7 +69,3 @@
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
 </div><br/>
-
-
-
-
