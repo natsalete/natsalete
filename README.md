@@ -49,8 +49,18 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=SmartBox-Projeto-html-css&show_owner=true&theme=radical" />
 </a>
+<br /> <hr> <br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=curso_ebac_frontend&show_owner=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&show_owner=true&theme=radical" />
+</a>
 </div>
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## Tecnologias que amo e estou aprendendo:
 
