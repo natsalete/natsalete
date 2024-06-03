@@ -43,17 +43,17 @@
 ## Principais repositórios:
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/natsalete/desafios-de-codigo-do-beecrowd">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/natsalete/SmartBox-Projeto-html-css">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=SmartBox-Projeto-html-css&show_owner=true&theme=radical" />
 </a>
 <br /> <hr> <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/natsalete/curso_ebac_frontend">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=curso_ebac_frontend&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/natsalete/Minhas-Tarefas">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&show_owner=true&theme=radical" />
 </a>
 </div>
