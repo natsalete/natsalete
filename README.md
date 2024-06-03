@@ -7,10 +7,10 @@
 </h3>
 
 <div  align="center">
-  <a href="https://github.com/natsalete/github-readme-stats">
+  <a href="https://github.com/natsalete/natsalete">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/natsalte/convoychat">
+  <a href="https://github.com/natsalte/natsalete">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
   </a>
 </div>
