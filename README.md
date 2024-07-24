@@ -50,8 +50,8 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=SmartBox-Projeto-html-css&show_owner=true&theme=radical" />
 </a>
 <br /> <hr> <br />
-<a href="https://github.com/natsalete/curso_ebac_frontend">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=curso_ebac_frontend&show_owner=true&theme=radical" />
+<a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/natsalete/Minhas-Tarefas">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&show_owner=true&theme=radical" />
