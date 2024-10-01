@@ -46,8 +46,8 @@
   <a href="https://github.com/natsalete/desafios-de-codigo-do-beecrowd">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/natsalete/SmartBox-Projeto-html-css">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=SmartBox-Projeto-html-css&show_owner=true&theme=radical" />
+<a href="https://github.com/natsalete/L-Essence-Beaute-Loja-Virtual">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&show_owner=true&theme=radical" />
 </a>
 <br /> <hr> <br />
 <a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
