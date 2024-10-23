@@ -16,7 +16,7 @@
   </a>
   <!-- Link para as principais linguagens do perfil -->
   <a href="https://github.com/natsalte/natsalete">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=compact&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=12&layout=compact&theme=radical" />
   </a>
 </div>
 
