@@ -25,7 +25,7 @@
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=12&layout=compact&theme=radical" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
   </a>
 </div>
 
