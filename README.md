@@ -55,7 +55,7 @@
 <h2 align="center">🚀 Tecnologias que Amo e Utilizo</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,java,c,cpp,php,mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,java,c,cpp,php,python,mysql,postgres,mongodb,git,github" />
   <br>
   <img src="https://img.shields.io/badge/ADVPL-363636?style=for-the-badge&logo=totvs&logoColor=white" />
   <img src="https://img.shields.io/badge/TOTVS-007ACC?style=for-the-badge&logo=totvs&logoColor=white" />
