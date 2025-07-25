@@ -105,15 +105,15 @@
   <a href="https://github.com/natsalete/desafios-de-codigo-do-beecrowd">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&theme=radical" />
   </a>
-  <a href="https://github.com/natsalete/L-Essence-Beaute-Loja-Virtual">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
-  </a>
-  <br>
-  <a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
+   <a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
   </a>
+  <br>
   <a href="https://github.com/natsalete/Minhas-Tarefas">
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
+  </a>
+  <a href="https://github.com/natsalete/L-Essence-Beaute-Loja-Virtual">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
   </a>
 </div>
 
