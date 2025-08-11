@@ -60,10 +60,10 @@
 
 <div align="center">
   <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
   </a>
   <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=donut&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=7&layout=donut&theme=radical" />
   </a>
 </div>
 
@@ -217,10 +217,10 @@
 
 <div align="center">
   <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
   </a>
   <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=8&layout=donut&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=7&layout=donut&theme=radical" />
   </a>
 </div>
 
