@@ -32,7 +32,7 @@
 📚 Currently studying **ADVPL**, **React.js**, **TypeScript**, **Next.js**, and **Full Stack Development**  
 💼 Working with **Protheus** and **ADVPL** - Using Advanced Protheus Language to create, adapt, and maintain **TOTVS** ERP system modules  
 🌱 Always seeking to improve my skills and create creative, efficient solutions  
-📍 Based in Monte Carmelo, Minas Gerais, Brazil
+📍 Based in Patrocinio, Minas Gerais, Brazil
 
 ### 🎯 Current Focus
 - 🔭 Working on ERP solutions with TOTVS Protheus
@@ -49,7 +49,7 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
   </a>
 </div>
 
@@ -186,7 +186,7 @@
 📚 Atualmente estudando **ADVPL**, **React.js**, **TypeScript**, **Next.js** e **Desenvolvimento Full Stack**  
 💼 Trabalhando com **Protheus** e **ADVPL** - Utilizando Advanced Protheus Language para criar, adaptar e manter módulos do sistema ERP **TOTVS**  
 🌱 Sempre buscando aprimorar minhas habilidades e criar soluções criativas e eficientes  
-📍 Localizada em Monte Carmelo, Minas Gerais, Brasil
+📍 Localizada em Patrocinio, Minas Gerais, Brasil
 
 ### 🎯 Foco Atual
 - 🔭 Trabalhando em soluções ERP com TOTVS Protheus
@@ -203,7 +203,7 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
   </a>
 </div>
 
