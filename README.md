@@ -44,17 +44,27 @@
 
 ### 📊 GitHub Statistics
 
+<!-- Widget com detalhes adicionais do GitHub -->
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
 <div align="center">
   <a href="https://github.com/natsalete">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=natsalete&theme=radical" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natsalete&theme=radical" />
+  <a href="https://github.com/natsalete">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+  </a>
+  <a href="https://github.com/natsalete">
+    <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=9&layout=donut&theme=radical" />
+  </a>
 </div>
 
 <br>
@@ -72,13 +82,6 @@
 </div>
 
 <hr>
-
-<!-- Widget com detalhes adicionais do GitHub -->
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
-
----
 
 ### 🚀 Technologies & Tools
 
@@ -198,17 +201,27 @@
 
 ### 📊 Estatísticas do GitHub
 
+<!-- Widget com detalhes adicionais do GitHub -->
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
 <div align="center">
   <a href="https://github.com/natsalete">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=natsalete&theme=radical" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natsalete&theme=radical" />
+  <a href="https://github.com/natsalete">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+  </a>
+  <a href="https://github.com/natsalete">
+    <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=9&layout=donut&theme=radical" />
+  </a>
 </div>
 
 <br>
@@ -226,13 +239,6 @@
 </div>
 
 <hr>
-
-<!-- Widget com detalhes adicionais do GitHub -->
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
-
----
 
 ### 🚀 Tecnologias & Ferramentas
 
