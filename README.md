@@ -32,7 +32,7 @@
 📚 Currently studying **ADVPL**, **React.js**, **TypeScript**, **Next.js**, and **Full Stack Development**  
 💼 Working with **Protheus** and **ADVPL** - Using Advanced Protheus Language to create, adapt, and maintain **TOTVS** ERP system modules  
 🌱 Always seeking to improve my skills and create creative, efficient solutions  
-📍 Based in Patrocinio, Minas Gerais, Brazil
+📍 Based in Monte Carmelo, Minas Gerais, Brazil
 
 ### 🎯 Current Focus
 - 🔭 Working on ERP solutions with TOTVS Protheus
@@ -44,26 +44,12 @@
 
 ### 📊 GitHub Statistics
 
-<!-- Widget com detalhes adicionais do GitHub -->
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
-
 <div align="center">
   <a href="https://github.com/natsalete">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=natsalete&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
-  </a>
-  <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=7&layout=donut&theme=radical" />
+    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
   </a>
 </div>
 
@@ -82,6 +68,13 @@
 </div>
 
 <hr>
+
+<!-- Widget com detalhes adicionais do GitHub -->
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+---
 
 ### 🚀 Technologies & Tools
 
@@ -189,7 +182,7 @@
 📚 Atualmente estudando **ADVPL**, **React.js**, **TypeScript**, **Next.js** e **Desenvolvimento Full Stack**  
 💼 Trabalhando com **Protheus** e **ADVPL** - Utilizando Advanced Protheus Language para criar, adaptar e manter módulos do sistema ERP **TOTVS**  
 🌱 Sempre buscando aprimorar minhas habilidades e criar soluções criativas e eficientes  
-📍 Localizada em Patrocinio, Minas Gerais, Brasil
+📍 Localizada em Monte Carmelo, Minas Gerais, Brasil
 
 ### 🎯 Foco Atual
 - 🔭 Trabalhando em soluções ERP com TOTVS Protheus
@@ -201,26 +194,12 @@
 
 ### 📊 Estatísticas do GitHub
 
-<!-- Widget com detalhes adicionais do GitHub -->
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
-
 <div align="center">
   <a href="https://github.com/natsalete">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=natsalete&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
-  </a>
-  <a href="https://github.com/natsalete">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=7&layout=donut&theme=radical" />
+    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
   </a>
 </div>
 
@@ -239,6 +218,13 @@
 </div>
 
 <hr>
+
+<!-- Widget com detalhes adicionais do GitHub -->
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+---
 
 ### 🚀 Tecnologias & Ferramentas
 
