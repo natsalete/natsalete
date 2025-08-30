@@ -163,8 +163,8 @@
 </div>
 
 ---
-
-## 🇧🇷 Versão em Português
+<details>
+<summary>🇧🇷 Versão em Português</summary>
 
 <!-- Banner animado -->
 <p align="center">
@@ -313,6 +313,7 @@
 </div>
 
 ---
+</details>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
