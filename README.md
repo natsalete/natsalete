@@ -1,19 +1,5 @@
 # 🌟 Natália Salete Rodrigues
 
-<!-- Language selector with enhanced styling -->
-<div align="center">
-  
-[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Click_Here-blue?style=for-the-badge&logo=github&logoColor=white)](#-english-version) 
-[![🇧🇷 Português](https://img.shields.io/badge/🇧🇷_Português-Clique_Aqui-green?style=for-the-badge&logo=github&logoColor=white)](#-versão-em-português)
-
----
-
-**Choose your language above! | Escolha seu idioma acima!**
-
-</div>
-
----
-
 ## 🇺🇸 English Version
 
 <!-- Animated Banner -->
@@ -153,14 +139,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-[![🇧🇷 Ver em Português](https://img.shields.io/badge/🇧🇷_Ver_em_Português-Clique_Aqui-green?style=for-the-badge&logo=github&logoColor=white)](#-versão-em-português)
-
-</div>
 
 ---
 <details>
