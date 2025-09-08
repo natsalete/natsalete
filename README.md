@@ -35,7 +35,7 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
   </a>
 </div>
 
@@ -76,6 +76,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![ADVPL](https://img.shields.io/badge/ADVPL-363636?style=for-the-badge&logo=totvs&logoColor=white)
 
 #### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -94,13 +96,14 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 #### 🔧 Tools & Platforms
-![ADVPL](https://img.shields.io/badge/ADVPL-363636?style=for-the-badge&logo=totvs&logoColor=white)
 ![TOTVS](https://img.shields.io/badge/TOTVS-007ACC?style=for-the-badge&logo=totvs&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FFB000?style=for-the-badge&logo=dataiku&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
 
@@ -177,7 +180,7 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/natsalete">
-    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=14&layout=compact&theme=radical" />
+    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
   </a>
 </div>
 
@@ -218,6 +221,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![ADVPL](https://img.shields.io/badge/ADVPL-363636?style=for-the-badge&logo=totvs&logoColor=white)
 
 #### 🎨 Desenvolvimento Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -236,14 +241,14 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 #### 🔧 Ferramentas & Plataformas
-![ADVPL](https://img.shields.io/badge/ADVPL-363636?style=for-the-badge&logo=totvs&logoColor=white)
 ![TOTVS](https://img.shields.io/badge/TOTVS-007ACC?style=for-the-badge&logo=totvs&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FFB000?style=for-the-badge&logo=dataiku&logoColor=black)
-
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 </div>
 
 ---
