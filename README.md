@@ -1,5 +1,3 @@
-# 🌟 Natália Salete Rodrigues
-
 ## 🇺🇸 English Version
 
 <!-- Animated Banner -->
@@ -127,22 +125,6 @@
     <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
   </a>
 </div>
-
----
-
-### 📬 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/natalia-salete-rodrigues/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:natsalete14@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/natsalete">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 <details>
@@ -275,7 +257,9 @@
 
 ---
 
-### 📬 Vamos nos Conectar!
+</details>
+
+### 📬 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natalia-salete-rodrigues/" target="_blank">
@@ -290,15 +274,6 @@
 </p>
 
 ---
-
-<div align="center">
-
-[![🇺🇸 View in English](https://img.shields.io/badge/🇺🇸_View_in_English-Click_Here-blue?style=for-the-badge&logo=github&logoColor=white)](#-english-version)
-
-</div>
-
----
-</details>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
