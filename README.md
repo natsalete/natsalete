@@ -44,7 +44,7 @@
       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px" alt="Gif coding"/>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280px" alt="Gif coding"/>
   </div>
 
 </div>
@@ -185,7 +185,7 @@
       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px" alt="Gif coding"/>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280px" alt="Gif coding"/>
   </div>
 
 </div>
