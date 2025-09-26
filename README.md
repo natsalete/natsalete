@@ -31,27 +31,22 @@
 
 <div align="center">
 
-  <!-- Tabela para alinhar estatísticas + gif -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/natsalete">
-          <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-        </a>
-      </td>
-      <td rowspan="2" align="center">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px" alt="Cat at computer Gif"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/natsalete">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Primeiro card sozinho -->
+  <a href="https://github.com/natsalete">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  </a>
+
+  <br>
+
+  <!-- Segunda linha: Top Languages + Gif lado a lado -->
+  <div align="center">
+    <a href="https://github.com/natsalete">
+      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="320px" alt="Gif coding"/>
+  </div>
+
 </div>
 
 
@@ -175,27 +170,26 @@
 
 ### 📊 GitHub Statistics
 
-<table>
-    <tr>
-      <td>
-        <a href="https://github.com/natsalete">
-          <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-        </a>
-      </td>
-      <td rowspan="2" align="center">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px" alt="Cat at computer Gif"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/natsalete">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+  <!-- Primeiro card sozinho -->
+  <a href="https://github.com/natsalete">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  </a>
+
+  <br>
+
+  <!-- Segunda linha: Top Languages + Gif lado a lado -->
+  <div align="center">
+    <a href="https://github.com/natsalete">
+      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="320px" alt="Gif coding"/>
+  </div>
+
 </div>
-<br>
+
 
 <!-- Contador de visualizações do perfil -->
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=natsalete&style=flat-square&color=22CCB2">
