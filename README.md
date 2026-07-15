@@ -14,16 +14,16 @@
 ### 👩‍💻 Sobre Mim
 
 🎯 **Desenvolvedora Full Stack & Consultora ERP** apaixonada por tecnologia e inovação  
-📚 Atualmente estudando **ADVPL**, **React.js**, **TypeScript**, **Next.js** e **Desenvolvimento Full Stack**  
+📚 Atualmente estudando **Kotlin (Spring Boot, WebFlux, Coroutines)**, **Exposed (ORM)**, **Domain-Driven Design (DDD)** e **Vue 3**  
 💼 Trabalhando com **Protheus** e **ADVPL** - Utilizando Advanced Protheus Language para criar, adaptar e manter módulos do sistema ERP **TOTVS**  
-🌱 Sempre buscando aprimorar minhas habilidades e criar soluções criativas e eficientes  
+🌱 Também atuando em sistemas enterprise modernos em **Kotlin**, com arquitetura orientada a domínio (DDD) e backend reativo  
 📍 Localizada em Monte Carmelo, Minas Gerais, Brasil
 
 ### 🎯 Foco Atual
-- 🔭 Trabalhando em soluções ERP com TOTVS Protheus
-- 🌱 Aprendendo tecnologias web modernas (React, TypeScript, Next.js)
+- 🔭 Trabalhando em soluções ERP com TOTVS Protheus e em sistemas enterprise Kotlin com arquitetura DDD
+- 🌱 Aprendendo Kotlin (Spring Boot, WebFlux, Coroutines, Exposed), Domain-Driven Design e Vue 3
 - 👯 Buscando colaborar em projetos inovadores de tecnologia
-- 💬 Me pergunte sobre ADVPL, sistemas ERP ou desenvolvimento web
+- 💬 Me pergunte sobre ADVPL, sistemas ERP, Kotlin ou arquitetura de domínio
 
 ---
 
@@ -92,13 +92,18 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### 🎨 Desenvolvimento Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Desenvolvimento Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🏛️ Arquitetura & Práticas
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-2E3440?style=for-the-badge&logo=bookstack&logoColor=white)
 
 #### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -155,16 +160,16 @@
 ### 👩‍💻 About Me
 
 🎯 **Full Stack Developer & ERP Consultant** passionate about technology and innovation  
-📚 Currently studying **ADVPL**, **React.js**, **TypeScript**, **Next.js**, and **Full Stack Development**  
+📚 Currently studying **Kotlin (Spring Boot, WebFlux, Coroutines)**, **Exposed (ORM)**, **Domain-Driven Design (DDD)**, and **Vue 3**  
 💼 Working with **Protheus** and **ADVPL** - Using Advanced Protheus Language to create, adapt, and maintain **TOTVS** ERP system modules  
-🌱 Always seeking to improve my skills and create creative, efficient solutions  
+🌱 Also working on modern enterprise systems in **Kotlin**, with domain-driven architecture (DDD) and reactive backends  
 📍 Based in Monte Carmelo, Minas Gerais, Brazil
 
 ### 🎯 Current Focus
-- 🔭 Working on ERP solutions with TOTVS Protheus
-- 🌱 Learning modern web technologies (React, TypeScript, Next.js)
+- 🔭 Working on ERP solutions with TOTVS Protheus and enterprise Kotlin systems with DDD architecture
+- 🌱 Learning Kotlin (Spring Boot, WebFlux, Coroutines, Exposed), Domain-Driven Design, and Vue 3
 - 👯 Looking to collaborate on innovative tech projects
-- 💬 Ask me about ADVPL, ERP systems, or web development
+- 💬 Ask me about ADVPL, ERP systems, Kotlin, or domain-driven architecture
 
 ---
 
@@ -231,13 +236,18 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### 🎨 Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🏛️ Architecture & Practices
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-2E3440?style=for-the-badge&logo=bookstack&logoColor=white)
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
