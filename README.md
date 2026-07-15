@@ -33,7 +33,7 @@
 
   <!-- Primeiro card sozinho -->
   <a href="https://github.com/natsalete">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="45%" src="https://github-stats-extended.vercel.app/api?  username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
 
   <br>
@@ -41,7 +41,7 @@
   <!-- Segunda linha: Top Languages + Gif lado a lado -->
   <div align="center">
     <a href="https://github.com/natsalete">
-      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
+      <img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280px" alt="Gif coding"/>
@@ -129,17 +129,17 @@
 
 <div align="center">
   <a href="https://github.com/natsalete/desafios-de-codigo-do-beecrowd">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&theme=radical" />
   </a>
    <a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
   </a>
   <br>
   <a href="https://github.com/natsalete/Minhas-Tarefas">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
   </a>
   <a href="https://github.com/natsalete/L-Essence-Beaute-Loja-Virtual">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
   </a>
 </div>
 
@@ -179,7 +179,7 @@
 
   <!-- Primeiro card sozinho -->
   <a href="https://github.com/natsalete">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="45%" src="https://github-stats-extended.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
 
   <br>
@@ -187,7 +187,7 @@
   <!-- Segunda linha: Top Languages + Gif lado a lado -->
   <div align="center">
     <a href="https://github.com/natsalete">
-      <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
+      <img width="32%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280px" alt="Gif coding"/>
@@ -274,17 +274,17 @@
 
 <div align="center">
   <a href="https://github.com/natsalete/desafios-de-codigo-do-beecrowd">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&theme=radical" />
   </a>
    <a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
   </a>
   <br>
   <a href="https://github.com/natsalete/Minhas-Tarefas">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
   </a>
   <a href="https://github.com/natsalete/L-Essence-Beaute-Loja-Virtual">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
   </a>
 </div>
 
