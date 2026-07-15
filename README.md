@@ -33,7 +33,7 @@
 
   <!-- Primeiro card sozinho -->
   <a href="https://github.com/natsalete">
-    <img width="55%" src="https://github-stats-extended.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="500" src="https://github-stats-extended.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
 
   <br>
@@ -41,10 +41,10 @@
   <!-- Segunda linha: Top Languages + Gif lado a lado -->
   <div align="center">
     <a href="https://github.com/natsalete">
-      <img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
+      <img width="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280px" alt="Gif coding"/>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" alt="Gif coding"/>
   </div>
 
 </div>
@@ -57,18 +57,9 @@
 
 <hr>
 
-<br>
-
-<!-- Exibe detalhes do perfil em forma de cartão -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natsalete&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-</div>
-
-<hr>
-
 <!-- Widget com detalhes adicionais do GitHub -->
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
 ---
@@ -132,14 +123,14 @@
     <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&theme=radical" />
   </a>
    <a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
-    <img height=120 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
   </a>
   <br>
   <a href="https://github.com/natsalete/Minhas-Tarefas">
-    <img height=135 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
   </a>
   <a href="https://github.com/natsalete/L-Essence-Beaute-Loja-Virtual">
-    <img height=135 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
   </a>
 </div>
 
@@ -179,7 +170,7 @@
 
   <!-- Primeiro card sozinho -->
   <a href="https://github.com/natsalete">
-    <img width="55%" src="https://github-stats-extended.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img width="500" src="https://github-stats-extended.vercel.app/api?username=natsalete&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </a>
 
   <br>
@@ -187,10 +178,10 @@
   <!-- Segunda linha: Top Languages + Gif lado a lado -->
   <div align="center">
     <a href="https://github.com/natsalete">
-      <img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
+      <img width="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=natsalete&langs_count=16&layout=compact&theme=radical" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280px" alt="Gif coding"/>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" alt="Gif coding"/>
   </div>
 
 </div>
@@ -201,18 +192,9 @@
 
 <hr>
 
-<br>
-
-<!-- Exibe detalhes do perfil em forma de cartão -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natsalete&show_icons=true&theme=radical" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-</div>
-
-<hr>
-
 <!-- Widget com detalhes adicionais do GitHub -->
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=natsalete&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
 ---
@@ -277,14 +259,14 @@
     <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=desafios-de-codigo-do-beecrowd&theme=radical" />
   </a>
    <a href="https://github.com/natsalete/Projetinhos-com-HTML-CSS-e-JavaScript">
-    <img height=120 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Projetinhos-com-HTML-CSS-e-JavaScript&theme=radical" />
   </a>
   <br>
   <a href="https://github.com/natsalete/Minhas-Tarefas">
-    <img height=135 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=Minhas-Tarefas&theme=radical" />
   </a>
   <a href="https://github.com/natsalete/L-Essence-Beaute-Loja-Virtual">
-    <img height=135 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
+    <img height=150 src="https://github-stats-extended.vercel.app/api/pin/?username=natsalete&repo=L-Essence-Beaute-Loja-Virtual&theme=radical" />
   </a>
 </div>
 
